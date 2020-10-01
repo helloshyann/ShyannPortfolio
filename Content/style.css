@@ -1308,8 +1308,8 @@ select.portfolio-filter-mobile {
   width: 100%;
 }
 .client-item img {
-  display: inline-block;
-}
+        display: inline-block;
+    }
 
 /*=================================================================*/
 /*                      CONTACT                              

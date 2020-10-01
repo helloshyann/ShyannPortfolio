@@ -77,13 +77,16 @@
     <Content Include="Fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Fonts\Simple-Line-Icons.svg" />
     <Content Include="Fonts\slick.svg" />
+    <Content Include="Images\.neticon.png" />
     <Content Include="Images\ajax-loader.gif" />
     <Content Include="Images\Avatar.png" />
     <Content Include="Images\bootstrapicon.png" />
     <Content Include="Images\csharpicon.png" />
+    <Content Include="Images\css3icon.png" />
     <Content Include="Images\dots-bg-light.svg" />
     <Content Include="Images\dots-bg.svg" />
-    <Content Include="Images\htmljscssicon.png" />
+    <Content Include="Images\html5icon.png" />
+    <Content Include="Images\jsicon.png" />
     <Content Include="Images\logo-b-dark.svg" />
     <Content Include="Images\logo-b-light.svg" />
     <Content Include="Images\logo-dark.svg" />
@@ -91,8 +94,8 @@
     <Content Include="Images\map-light.png" />
     <Content Include="Images\map-light.svg" />
     <Content Include="Images\map.svg" />
-    <Content Include="Images\netmvc.png" />
     <Content Include="Images\ShyannHandwriting.png" />
+    <Content Include="Images\sqlicon.png" />
     <Content Include="index.html" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\contact.js" />
