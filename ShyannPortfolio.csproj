@@ -77,6 +77,9 @@
     <Content Include="Fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Fonts\Simple-Line-Icons.svg" />
     <Content Include="Fonts\slick.svg" />
+    <Content Include="Images\bee-vector-icon.png" />
+    <Content Include="Images\beeicon.png" />
+    <Content Include="Images\bugtracker.png" />
     <Content Include="Images\graphic7.jpg" />
     <Content Include="Images\graphic8.jpg" />
     <Content Include="Images\graphic9.jpg" />
@@ -92,7 +95,9 @@
     <Content Include="Images\graphic4.jpg" />
     <Content Include="Images\graphic5.jpg" />
     <Content Include="Images\graphic6.jpg" />
+    <Content Include="Images\headshotplaceholder.png" />
     <Content Include="Images\herokuicon.png" />
+    <Content Include="Images\journal.png" />
     <Content Include="Images\logo-b-dark.svg" />
     <Content Include="Images\logo-b-light.svg" />
     <Content Include="Images\logo-dark.svg" />
@@ -100,8 +105,15 @@
     <Content Include="Images\map-light.png" />
     <Content Include="Images\map-light.svg" />
     <Content Include="Images\map.svg" />
+    <Content Include="Images\money1.png" />
+    <Content Include="Images\money2.png" />
+    <Content Include="Images\moneyapi.png" />
+    <Content Include="Images\moneymvc.png" />
     <Content Include="Images\moneyvector.png" />
+    <Content Include="Images\pencilicon.png" />
     <Content Include="Images\ShyannHandwriting.png" />
+    <Content Include="Images\signature.png" />
+    <Content Include="Images\tablogo.png" />
     <Content Include="Images\xamarinicon.png" />
     <Content Include="index.html" />
     <Content Include="Scripts\bootstrap.min.js" />
