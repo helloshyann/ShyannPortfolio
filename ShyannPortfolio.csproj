@@ -79,6 +79,7 @@
     <Content Include="Fonts\slick.svg" />
     <Content Include="Images\bee-vector-icon.png" />
     <Content Include="Images\beeicon.png" />
+    <Content Include="Images\bootstrapicon.png" />
     <Content Include="Images\bugtracker.png" />
     <Content Include="Images\graphic7.jpg" />
     <Content Include="Images\graphic8.jpg" />
