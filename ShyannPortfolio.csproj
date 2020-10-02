@@ -77,14 +77,12 @@
     <Content Include="Fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Fonts\Simple-Line-Icons.svg" />
     <Content Include="Fonts\slick.svg" />
-    <Content Include="Images\neticon.png" />
+    <Content Include="Images\graphic7.jpg" />
+    <Content Include="Images\graphic8.jpg" />
+    <Content Include="Images\graphic9.jpg" />
     <Content Include="Images\ajax-loader.gif" />
-    <Content Include="Images\Avatar.png" />
     <Content Include="Images\blogvector.jpg" />
-    <Content Include="Images\bootstrapicon.png" />
     <Content Include="Images\bugicon.svg" />
-    <Content Include="Images\csharpicon.png" />
-    <Content Include="Images\css3icon.png" />
     <Content Include="Images\dots-bg-light.svg" />
     <Content Include="Images\dots-bg.svg" />
     <Content Include="Images\female.png" />
@@ -94,8 +92,7 @@
     <Content Include="Images\graphic4.jpg" />
     <Content Include="Images\graphic5.jpg" />
     <Content Include="Images\graphic6.jpg" />
-    <Content Include="Images\html5icon.png" />
-    <Content Include="Images\jsicon.png" />
+    <Content Include="Images\herokuicon.png" />
     <Content Include="Images\logo-b-dark.svg" />
     <Content Include="Images\logo-b-light.svg" />
     <Content Include="Images\logo-dark.svg" />
@@ -105,7 +102,7 @@
     <Content Include="Images\map.svg" />
     <Content Include="Images\moneyvector.png" />
     <Content Include="Images\ShyannHandwriting.png" />
-    <Content Include="Images\sqlicon.png" />
+    <Content Include="Images\xamarinicon.png" />
     <Content Include="index.html" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\contact.js" />
