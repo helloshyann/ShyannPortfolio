@@ -110,10 +110,14 @@
     <Content Include="Images\moneyapi.png" />
     <Content Include="Images\moneymvc.png" />
     <Content Include="Images\moneyvector.png" />
+    <Content Include="Images\onestar.png" />
+    <Content Include="Images\onestar.svg" />
     <Content Include="Images\pencilicon.png" />
     <Content Include="Images\ShyannHandwriting.png" />
     <Content Include="Images\signature.png" />
     <Content Include="Images\tablogo.png" />
+    <Content Include="Images\threestars.png" />
+    <Content Include="Images\threestars.svg" />
     <Content Include="Images\xamarinicon.png" />
     <Content Include="index.html" />
     <Content Include="Scripts\bootstrap.min.js" />

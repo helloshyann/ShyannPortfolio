@@ -869,13 +869,13 @@ section.home.light .social-icons li a:hover {
 }
 .section-title:before {
   content: "";
-  background-image: url(../images/dots-bg.svg);
+  background-image: url();
   display: block;
-  height: 37px;
+  height: 15px;
   left: -14px;
   top: -14px;
   position: absolute;
-  width: 37px;
+  width: 15px;
 }
 
 /*=================================================================*/
@@ -1315,7 +1315,7 @@ select.portfolio-filter-mobile {
 /*                      CONTACT                              
 /*=================================================================*/
 .contact-info {
-  background-image: url("../images/map.svg");
+  background-image: url("../Images/threestars.svg");
   background-repeat: no-repeat;
   background-size: contain;
   min-height: 200px;
