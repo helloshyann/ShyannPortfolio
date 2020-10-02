@@ -98,6 +98,7 @@
     <Content Include="Images\headshotplaceholder.png" />
     <Content Include="Images\herokuicon.png" />
     <Content Include="Images\journal.png" />
+    <Content Include="Images\jquery.png" />
     <Content Include="Images\logo-b-dark.svg" />
     <Content Include="Images\logo-b-light.svg" />
     <Content Include="Images\logo-dark.svg" />

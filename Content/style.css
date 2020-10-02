@@ -621,7 +621,7 @@ header.mobile-header-1 .menu-icon span {
   background: #FFF;
   border-radius: 5px;
   height: 4px;
-  position: relative;
+  position: absolute;
   width: 30px;
 }
 header.mobile-header-1 .menu-icon span:before {
@@ -688,7 +688,7 @@ header.mobile-header-2 .menu-icon span {
   background: #FFF;
   border-radius: 5px;
   height: 4px;
-  position: relative;
+  position: absolute;
   width: 30px;
 }
 header.mobile-header-2 .menu-icon span:before {
