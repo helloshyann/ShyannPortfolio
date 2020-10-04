@@ -98,6 +98,7 @@
     <Content Include="Images\graphic6.jpg" />
     <Content Include="Images\headshotplaceholder.png" />
     <Content Include="Images\herokuicon.png" />
+    <Content Include="Images\illustratoricon.png" />
     <Content Include="Images\journal.png" />
     <Content Include="Images\jquery.png" />
     <Content Include="Images\logo-b-dark.svg" />
@@ -115,6 +116,7 @@
     <Content Include="Images\onestar.png" />
     <Content Include="Images\onestar.svg" />
     <Content Include="Images\pencilicon.png" />
+    <Content Include="Images\photoshopicon.png" />
     <Content Include="Images\ShyannHandwriting.png" />
     <Content Include="Images\signature.png" />
     <Content Include="Images\tablogo.png" />
