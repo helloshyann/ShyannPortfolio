@@ -96,6 +96,8 @@
     <Content Include="Images\graphic4.jpg" />
     <Content Include="Images\graphic5.jpg" />
     <Content Include="Images\graphic6.jpg" />
+    <Content Include="Images\graphicheadshot.png" />
+    <Content Include="Images\headshot.png" />
     <Content Include="Images\headshotplaceholder.png" />
     <Content Include="Images\herokuicon.png" />
     <Content Include="Images\illustratoricon.png" />
