@@ -74,9 +74,6 @@
     <Content Include="Content\simple-line-icons.css" />
     <Content Include="Content\slick.css" />
     <Content Include="Content\style.css" />
-    <Content Include="Fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="Fonts\Simple-Line-Icons.svg" />
-    <Content Include="Fonts\slick.svg" />
     <Content Include="Images\bee-vector-icon.png" />
     <Content Include="Images\beeicon.png" />
     <Content Include="Images\bootstrapicon.png" />
@@ -154,20 +151,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="Fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="Fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="Fonts\glyphicons-halflings-regular.woff2" />
-    <Content Include="Fonts\Simple-Line-Icons.eot" />
-    <Content Include="Fonts\Simple-Line-Icons.ttf" />
-    <Content Include="Fonts\Simple-Line-Icons.woff" />
-    <Content Include="Fonts\Simple-Line-Icons.woff2" />
-    <Content Include="Fonts\slick.eot" />
-    <Content Include="Fonts\slick.ttf" />
-    <Content Include="Fonts\slick.woff" />
-    <Content Include="Fonts\LEMONMILK-Light.otf" />
     <Content Include="Fonts\LEMONMILK-Light.ttf" />
     <Content Include="Fonts\GeosansLight.ttf" />
+    <Content Include="Fonts\LouisGeorge.ttf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
