@@ -122,6 +122,8 @@
     <Content Include="Images\ShyannHandwriting.png" />
     <Content Include="Images\signature.png" />
     <Content Include="Images\tablogo.png" />
+    <Content Include="Images\tacocatscreenshot.PNG" />
+    <Content Include="Images\tacocatthumbnail.png" />
     <Content Include="Images\threestars.png" />
     <Content Include="Images\threestars.svg" />
     <Content Include="Images\xamarinicon.png" />
