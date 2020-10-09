@@ -78,6 +78,7 @@
     <Content Include="Images\beeicon.png" />
     <Content Include="Images\bootstrapicon.png" />
     <Content Include="Images\bugtracker.png" />
+    <Content Include="Images\fizzbeegraphic.png" />
     <Content Include="Images\fizzbuzzscreenshot.PNG" />
     <Content Include="Images\graphic7.jpg" />
     <Content Include="Images\graphic8.jpg" />
@@ -119,7 +120,10 @@
     <Content Include="Images\photoshopicon.png" />
     <Content Include="Images\ShyannHandwriting.png" />
     <Content Include="Images\signature.png" />
+    <Content Include="Images\sumgraphic.png" />
+    <Content Include="Images\sunsetgraphic.png" />
     <Content Include="Images\tablogo.png" />
+    <Content Include="Images\taco graphic.png" />
     <Content Include="Images\tacocatscreenshot.PNG" />
     <Content Include="Images\tacocatthumbnail.png" />
     <Content Include="Images\threestars.png" />
