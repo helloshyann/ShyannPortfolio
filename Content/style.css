@@ -184,7 +184,7 @@ pre {
   width: 16px;
   height: 16px;
   display: block;
-  background: #FF4C60;
+  background: #F95775;
   box-shadow: 2px 2px 8px rgba(255, 76, 96, 0.09);
   border-radius: 50%;
   transform: rotate(90deg);
@@ -226,19 +226,19 @@ pre {
   width: 128px;
   height: 60px;
 }
-.infinityChrome div {
-  position: absolute;
-  width: 16px;
-  height: 16px;
-  background: #FF4C60;
-  box-shadow: 2px 2px 8px rgba(255, 76, 96, 0.09);
-  border-radius: 50%;
-  animation: moveSvg 6.9s linear infinite;
-  -webkit-filter: url(#goo);
-  filter: url(#goo);
-  transform: scaleX(-1);
-  offset-path: path("M64.3636364,29.4064278 C77.8909091,43.5203348 84.4363636,56 98.5454545,56 C112.654545,56 124,44.4117395 124,30.0006975 C124,15.5896556 112.654545,3.85282763 98.5454545,4.00139508 C84.4363636,4.14996252 79.2,14.6982509 66.4,29.4064278 C53.4545455,42.4803627 43.5636364,56 29.4545455,56 C15.3454545,56 4,44.4117395 4,30.0006975 C4,15.5896556 15.3454545,4.00139508 29.4545455,4.00139508 C43.5636364,4.00139508 53.1636364,17.8181672 64.3636364,29.4064278 Z");
-}
+    .infinityChrome div {
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        background: #F95775;
+        box-shadow: 2px 2px 8px rgba(255, 76, 96, 0.09);
+        border-radius: 50%;
+        animation: moveSvg 6.9s linear infinite;
+        -webkit-filter: url(#goo);
+        filter: url(#goo);
+        transform: scaleX(-1);
+        offset-path: path("M64.3636364,29.4064278 C77.8909091,43.5203348 84.4363636,56 98.5454545,56 C112.654545,56 124,44.4117395 124,30.0006975 C124,15.5896556 112.654545,3.85282763 98.5454545,4.00139508 C84.4363636,4.14996252 79.2,14.6982509 66.4,29.4064278 C53.4545455,42.4803627 43.5636364,56 29.4545455,56 C15.3454545,56 4,44.4117395 4,30.0006975 C4,15.5896556 15.3454545,4.00139508 29.4545455,4.00139508 C43.5636364,4.00139508 53.1636364,17.8181672 64.3636364,29.4064278 Z");
+    }
 .infinityChrome div:before, .infinityChrome div:after {
   content: "";
   position: absolute;
@@ -272,9 +272,9 @@ pre {
   25% {
     background: #6C6CE5;
   }
-  75% {
-    background: #FFD15C;
-  }
+    75% {
+        background: #44D7B6;
+    }
   100% {
     offset-distance: 100%;
   }
@@ -292,9 +292,9 @@ pre {
   0%, 50% {
     left: -8px;
   }
-  25% {
-    background: #FFD15C;
-  }
+    25% {
+        background: #44D7B6;
+    }
   75% {
     background: #6C6CE5;
   }
