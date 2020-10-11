@@ -121,7 +121,9 @@
     <Content Include="Images\ShyannHandwriting.png" />
     <Content Include="Images\signature.png" />
     <Content Include="Images\sumgraphic.png" />
+    <Content Include="Images\sumscreenshot.PNG" />
     <Content Include="Images\sunsetgraphic.png" />
+    <Content Include="Images\sunsetscreenshot.PNG" />
     <Content Include="Images\tablogo.png" />
     <Content Include="Images\taco graphic.png" />
     <Content Include="Images\tacocatscreenshot.PNG" />
