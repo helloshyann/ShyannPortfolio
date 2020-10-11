@@ -99,6 +99,7 @@
     <Content Include="Images\neticon.png" />
     <Content Include="Images\onestar.png" />
     <Content Include="Images\photoshopicon.png" />
+    <Content Include="Images\seafoambg.png" />
     <Content Include="Images\signature.png" />
     <Content Include="Images\sqlicon.png" />
     <Content Include="Images\sumscreenshot.PNG" />
@@ -109,6 +110,7 @@
     <Content Include="Images\tacothumb.png" />
     <Content Include="Images\threestars.png" />
     <Content Include="Images\xamarinicon.png" />
+    <Content Include="Images\yellowbg.png" />
     <Content Include="index.html" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\contact.js" />
