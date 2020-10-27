@@ -91,6 +91,8 @@
     <Content Include="Images\herokuicon.png" />
     <Content Include="Images\html5icon.png" />
     <Content Include="Images\illustratoricon.png" />
+    <Content Include="Images\jjjscreenshot.PNG" />
+    <Content Include="Images\jjjthumb.png" />
     <Content Include="Images\journal.png" />
     <Content Include="Images\jquery.png" />
     <Content Include="Images\jsicon.png" />
