@@ -75,6 +75,7 @@
     <Content Include="Content\slick.css" />
     <Content Include="Content\style.css" />
     <Content Include="Images\beeicon.png" />
+    <Content Include="Images\bellescreenshot.PNG" />
     <Content Include="Images\bootstrapicon.png" />
     <Content Include="Images\csharpicon.png" />
     <Content Include="Images\css3icon.png" />
