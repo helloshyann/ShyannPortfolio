@@ -1741,6 +1741,11 @@ body.dark footer.footer {
     }
 
 
+.slider {
+    margin-left: 25px;
+    max-width: 1000px;
+    display: flex;
+}
 
 
 /*=================================================================*/
