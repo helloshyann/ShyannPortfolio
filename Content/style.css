@@ -817,7 +817,7 @@ main.content-2.open {
 }
 
 section {
-  padding-top: 110px;
+  padding-top: 50px;
   position: relative;
 }
 
@@ -1747,6 +1747,10 @@ body.dark footer.footer {
     display: flex;
 }
 
+.about{
+    text-indent: 30px;
+}
+
 
 /*=================================================================*/
 /*                     BOOTSTRAP ELEMENTS
@@ -2436,7 +2440,7 @@ body {
 }
 @media only screen and (max-width: 768px) {
   section.home {
-    padding: 300px 0;
+    padding: 150px 0;
   }
 
   .portfolio-filter {
