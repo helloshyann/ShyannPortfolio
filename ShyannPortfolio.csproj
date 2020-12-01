@@ -76,7 +76,11 @@
     <Content Include="Content\style.css" />
     <Content Include="Images\beeicon.png" />
     <Content Include="Images\bellescreenshot.PNG" />
+    <Content Include="Images\BlogIcon.PNG" />
     <Content Include="Images\bootstrapicon.png" />
+    <Content Include="Images\BugTrackerIcon.PNG" />
+    <Content Include="Images\ccscreenshot.PNG" />
+    <Content Include="Images\colorcodedfav.png" />
     <Content Include="Images\csharpicon.png" />
     <Content Include="Images\css3icon.png" />
     <Content Include="Images\fizzbuzzscreenshot.PNG" />
@@ -102,6 +106,8 @@
     <Content Include="Images\neticon.png" />
     <Content Include="Images\onestar.png" />
     <Content Include="Images\photoshopicon.png" />
+    <Content Include="Images\RolodexIcon.png" />
+    <Content Include="Images\rolodexscreenshot.PNG" />
     <Content Include="Images\seafoambg.png" />
     <Content Include="Images\signature.png" />
     <Content Include="Images\sqlicon.png" />
