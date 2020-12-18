@@ -74,6 +74,7 @@
     <Content Include="Content\simple-line-icons.css" />
     <Content Include="Content\slick.css" />
     <Content Include="Content\style.css" />
+    <Content Include="Images\architect.png" />
     <Content Include="Images\beeicon.png" />
     <Content Include="Images\bellescreenshot.PNG" />
     <Content Include="Images\BlogIcon.PNG" />
@@ -85,6 +86,7 @@
     <Content Include="Images\css3icon.png" />
     <Content Include="Images\fizzbuzzscreenshot.PNG" />
     <Content Include="Images\fizzbuzzthumb.png" />
+    <Content Include="Images\gitpostscreenshot.PNG" />
     <Content Include="Images\graphic1.jpg" />
     <Content Include="Images\graphic2.jpg" />
     <Content Include="Images\graphic3.jpg" />
@@ -101,8 +103,10 @@
     <Content Include="Images\journal.png" />
     <Content Include="Images\jquery.png" />
     <Content Include="Images\jsicon.png" />
+    <Content Include="Images\lifecycle.jpg" />
     <Content Include="Images\moneyapi.png" />
     <Content Include="Images\moneymvc.png" />
+    <Content Include="Images\mvc.jpg" />
     <Content Include="Images\neticon.png" />
     <Content Include="Images\onestar.png" />
     <Content Include="Images\photoshopicon.png" />
