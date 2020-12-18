@@ -104,14 +104,17 @@
     <Content Include="Images\jquery.png" />
     <Content Include="Images\jsicon.png" />
     <Content Include="Images\lifecycle.jpg" />
+    <Content Include="Images\magne.png" />
     <Content Include="Images\moneyapi.png" />
     <Content Include="Images\moneymvc.png" />
     <Content Include="Images\mvc.jpg" />
     <Content Include="Images\neticon.png" />
     <Content Include="Images\onestar.png" />
     <Content Include="Images\photoshopicon.png" />
+    <Content Include="Images\pory.png" />
     <Content Include="Images\RolodexIcon.png" />
     <Content Include="Images\rolodexscreenshot.PNG" />
+    <Content Include="Images\rotom.png" />
     <Content Include="Images\seafoambg.png" />
     <Content Include="Images\signature.png" />
     <Content Include="Images\sqlicon.png" />
